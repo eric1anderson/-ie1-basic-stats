@@ -46,6 +46,3 @@ Make sure that you have a JDK installed and that the JAVA_HOME environment varia
 
 ### Edit 1:
 Students: Eric Anderson, Sheng-Kai Wen
-
-### Edit 2:
-Edit Time: 09/30/2024
